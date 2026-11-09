@@ -1,0 +1,13 @@
+# Variant analysis and CRISPRi benchmark
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.3
+statsmodels==0.14.5
+matplotlib==3.10.5
+pyarrow==21.0.0
+pysam==0.23.0
+scikit-learn
+h5py
+# ChromBPNet training/scoring and DeepSHAP contribution scores use a separate
+# environment: chrombpnet, tensorflow, the kundajelab shap fork and Fi-NeMo
+# (see crispri/motif_analysis/ and the ChromBPNet documentation).
