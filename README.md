@@ -1,7 +1,7 @@
-# Lineage-structured predictions of noncoding variant effects across haematopoiesis
+# Lineage-structured predictions of noncoding variant effects across hematopoiesis
 
 Code for *"Lineage-structured predictions of noncoding variant effects on chromatin
-accessibility across haematopoiesis nominate GWAS variants distinct from statistical
+accessibility across hematopoiesis nominate GWAS variants distinct from statistical
 fine-mapping"* (Kazemi and Morris, Genome Biology, submitted).
 
 The analyses use ChromBPNet models trained on ATAC-seq from 17 haematopoietic cell types
@@ -93,7 +93,7 @@ needs Ensembl VEP 115.2 with the release-113 cache; the CRISPRi steps need bedto
 ## Citation
 
 Kazemi M, Morris JA. *Lineage-structured predictions of noncoding variant effects on
-chromatin accessibility across haematopoiesis nominate GWAS variants distinct from
+chromatin accessibility across hematopoiesis nominate GWAS variants distinct from
 statistical fine-mapping.* Genome Biology (submitted). DOI to be added.
 
 ## License
