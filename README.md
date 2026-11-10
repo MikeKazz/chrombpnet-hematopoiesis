@@ -74,7 +74,7 @@ code is needed; the trained models and score tables are on Zenodo (below).
 ## Data and models
 
 Inputs are described in [data/README.md](data/README.md). Trained models and variant
-scores are on Zenodo: **DOI 10.5281/zenodo.XXXXXXX** (placeholder, to be updated).
+scores are on Zenodo: **DOI 10.5281/zenodo.24091438**.
 All underlying ATAC-seq and CRISPRi data are public.
 
 ## Running
