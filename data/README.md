@@ -4,7 +4,7 @@ The analyses use public data only. Nothing here is controlled-access. Large file
 not stored in the repository; place them as below (or point the scripts at other
 locations with `CBPNET_DATA_DIR` and the `--data-dir` / `--input-dir` arguments).
 
-## Deposited on Zenodo (DOI: 10.5281/zenodo.XXXXXXX, placeholder)
+## Deposited on Zenodo (DOI: 10.5281/zenodo.24091438)
 
 | Path | Contents |
 |---|---|
