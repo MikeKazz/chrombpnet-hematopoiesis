@@ -46,7 +46,7 @@ Motif analysis of the K562 CRISPRi elements. Run in this order:
 
 | Step | Script | What it does |
 |---|---|---|
-| 1 | `make_crispri_input_bed.py` | Turns the K562 rows of `ALL7_trimmed.csv` into the BED that gets scored. It defines which 9,205 elements enter the analysis. |
+| 1 | `make_crispri_input_bed.py` | Turns the K562 rows of `TableS4.csv` into the BED that gets scored. It defines which 9,205 elements enter the analysis. |
 | 2 | `fetch_variant_scorer.sh` | Fetches variant-scorer, which supplies the DeepSHAP background and combine functions the Methods cite. Pass a commit hash to pin the version. |
 | 3 | `chrombpnet_bed_counts_contribs.py` | Computes the predicted counts and the counts-head DeepSHAP contribution scores (one SLURM array shard per job). It also writes the `pred_log_counts` that become the model's own accessibility covariate. |
 | 4 | `build_finemo_inputs.py` | Converts the shards into Fi-NeMo inputs and crops each element to 1,000 bp. |
