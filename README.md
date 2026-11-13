@@ -90,7 +90,7 @@ needs Ensembl VEP 115.2 with the release-113 cache; the CRISPRi steps need bedto
 
 ## Citation
 
-Kazemi M, Morris JA. *Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis.* Genome Biology (submitted). DOI to be added.
+Kazemi M, Morris JA. *Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis.* https://doi.org/10.64898/2026.11.12.766027
 
 ## License
 
