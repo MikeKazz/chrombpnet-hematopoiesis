@@ -1,6 +1,6 @@
 # Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis
 
-Code for *"Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis"* (Kazemi and Morris, Genome Biology, submitted).
+Code for *"Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis"* (Kazemi and Morris, https://doi.org/10.64898/2026.11.12.766027).
 
 The analyses use ChromBPNet models trained on ATAC-seq from 17 haematopoietic cell types
 (5 folds each) to score fine-mapped and HapMap variants, then relate the predictions to
@@ -90,8 +90,7 @@ needs Ensembl VEP 115.2 with the release-113 cache; the CRISPRi steps need bedto
 
 ## Citation
 
-Kazemi M, Morris JA. *Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis.* Genome Biology (submitted). DOI to be added.
-
+Kazemi M, Morris JA. *Chromatin accessibility predictions reveal lineage-structured effects of noncoding variants across hematopoiesis.* https://doi.org/10.64898/2026.11.12.766027
 ## License
 
 MIT, see [LICENSE](LICENSE).
